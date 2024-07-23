@@ -1,5 +1,5 @@
 install:
   - FILE="-Dfile=documentreader-api.aar"
   - mvn install:install-file $FILE -DgroupId=ai.trully.document
-    -DartifactId=DocumentReaderAPI -Dversion=7.3.10030 -Dpackaging=aar
+    -DartifactId=DocumentReaderAPI -Dversion=7.2.9835 -Dpackaging=aar
     -DgeneratePom=true
